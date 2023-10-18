@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/juanjaviermino/BoxChallenge/blob/7d83ea9bb0dfb8a14ccaec37be5306b2e13f5a40/ss-box-challenge-1.png)
+![Screenshot for page in landscape](https://github.com/juanjaviermino/BoxChallenge/blob/7d83ea9bb0dfb8a14ccaec37be5306b2e13f5a40/ss-box-challenge-1.png)
 
-![]([./screenshot.jpg](https://github.com/juanjaviermino/BoxChallenge/blob/7d83ea9bb0dfb8a14ccaec37be5306b2e13f5a40/ss-box-challenge-2.png))
+![Screenshot for page in portrait](https://github.com/juanjaviermino/BoxChallenge/blob/7d83ea9bb0dfb8a14ccaec37be5306b2e13f5a40/ss-box-challenge-2.png)
 
 ### Links
 
