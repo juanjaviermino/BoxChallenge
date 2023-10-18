@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution here](https://juanjaviermino.github.io/BoxChallenge/)
 
 ## My process
 
